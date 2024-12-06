@@ -1,0 +1,9 @@
+{
+    "confirm_password_not_match": "Confirmation password does not match",
+    "email_exist": "Email already exist",
+    "unprocessable_entity": "Error validation",
+    "not_found": "Data not found",
+    "user_not_found": "User not found",
+    "wrong_password": "Wrong password"
+}
+  

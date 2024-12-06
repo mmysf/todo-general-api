@@ -1,0 +1,9 @@
+{
+    "confirm_password_not_match": "Konfirmasi password tidak cocok",
+    "email_exist": "Email sudah terdaftar",
+    "unprocessable_entity": "Validasi gagal",
+    "not_found": "Data tidak ditemukan",
+    "user_not_found": "User tidak ditemukan",
+    "wrong_password": "Password salah"
+}
+  
